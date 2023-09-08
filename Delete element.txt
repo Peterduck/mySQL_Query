@@ -1,0 +1,2 @@
+mysql> delete from khoikinhte where id=001;
+Query OK, 1 row affected (0.01 sec)

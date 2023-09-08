@@ -1,0 +1,2 @@
+mysql> insert into khoikinhte value(001,'Phat','211362A',3.82);
+Query OK, 1 row affected (0.01 sec)

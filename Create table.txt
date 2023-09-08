@@ -1,0 +1,6 @@
+mysql> create table khoikinhte
+    -> (id int(10),
+    -> tenHS varchar(50),
+    -> lop varchar(50),
+    -> PRIMARY KEY(id));
+Query OK, 0 rows affected, 1 warning (0.02 sec)
